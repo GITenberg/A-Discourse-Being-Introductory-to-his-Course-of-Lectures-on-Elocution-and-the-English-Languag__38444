@@ -1,0 +1,34 @@
+_repo: A-Discourse-Being-Introductory-to-his-Course-of-Lectures-on-Elocution-and-the-English-Languag__38444
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38444-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sheridan, Thomas
+    birthdate: 1719
+    deathdate: 1788
+    gutenberg_agent_id: '39471'
+    url: http://www.gutenberg.org/2009/agents/39471
+  editor:
+    agent_name: Mohrmann, G. P.
+    alias: Mohrmann, Gerald Paul
+    birthdate: 1925
+    gutenberg_agent_id: '39472'
+    url: http://www.gutenberg.org/2009/agents/39472
+description: ''
+gutenberg_issued: '2011-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38444'
+  lccn: '78007557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elocution -- Study and teaching -- Early works to 1800'
+- !lcc 'PN'
+title: A Discourse Being Introductory to his Course of Lectures on Elocution and the
+  English Language (1759)
+url: http://www.gutenberg.org/ebooks/38444
